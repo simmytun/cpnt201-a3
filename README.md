@@ -7,7 +7,7 @@ https://github.com/simmytun/cpnt201-a3
 # GH Pages 
 https://simmytun.github.io/cpnt201-a3/
 
-# attributions 
+# ref 
 https://www.svgrepo.com/svg/313266/flash2
 
 https://fontawesome.com/icons/bread-slice?style=solid
